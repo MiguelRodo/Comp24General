@@ -2,7 +2,7 @@
 
 
 The purpose of this compendium is to
-`[briefly describe the compendium's goals and objectives]`
+pre-build container images.
 
 ## Contact
 
